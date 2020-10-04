@@ -14,17 +14,15 @@ class App extends Component{
     <div className="App">
     <Router>
       <Navbar />
-      {/* <Route exact path='/' component={Home} /> */}
       <br />
       <Switch>
-        {/* <Home /> */}
-      <Route exact path='/' exact component={Home} />
-      <Route path='/home' exact component={Home} />
-      <Route path='/send' exact component={Home} />
-      <Route path='/graduate' exact component={Home} />
-      <Route path='/profile' exact component={Home} />
-      <Route path='/messages' exact component={Home} />
-      <Route path='/setting' exact component={Home} />
+      <Route exact path='/clinikAssign/'  component={Home} />
+      <Route path='/clinikAssign/home'  component={Home} />
+      <Route path='/clinikAssign/send'  component={Home} />
+      <Route path='/clinikAssign/graduate'  component={Home} />
+      <Route path='/clinikAssign/profile'  component={Home} />
+      <Route path='/clinikAssign/messages'  component={Home} />
+      <Route path='/clinikAssign/setting'  component={Home} />
       </Switch>
     </Router>
     </div>
