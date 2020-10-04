@@ -3,7 +3,7 @@ import { Route, BrowserRouter as Router, Switch } from 'react-router-dom';
 import './App.css';
 import Home from './components/home';
 import Navbar from './components/sidebar';
-
+import Footer from './components/footer'
 
 class App extends Component{
  
@@ -24,6 +24,7 @@ class App extends Component{
       <Route path='/clinikAssign/messages'  component={Home} />
       <Route path='/clinikAssign/setting'  component={Home} />
       </Switch>
+      <Footer />
     </Router>
     </div>
   );
