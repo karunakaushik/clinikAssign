@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "3913dfed49c1270691bc77655b0e2a0c",
+    "revision": "de17d4fe9f3b831dff090878d43f1016",
     "url": "/clinikAssign/index.html"
   },
   {
-    "revision": "ac074ebdc18ebee1c7cb",
-    "url": "/clinikAssign/static/css/main.5fcbfdd8.chunk.css"
+    "revision": "72c4aefb6c1581750c10",
+    "url": "/clinikAssign/static/css/main.a9f8993a.chunk.css"
   },
   {
-    "revision": "7df95fdd6a785daf1f3c",
-    "url": "/clinikAssign/static/js/2.07733047.chunk.js"
+    "revision": "2ab15a3e2e13f8ff9ed3",
+    "url": "/clinikAssign/static/js/2.5a0f5159.chunk.js"
   },
   {
     "revision": "c64c486544348f10a6d6c716950bc223",
-    "url": "/clinikAssign/static/js/2.07733047.chunk.js.LICENSE.txt"
+    "url": "/clinikAssign/static/js/2.5a0f5159.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "ac074ebdc18ebee1c7cb",
-    "url": "/clinikAssign/static/js/main.63ad3022.chunk.js"
+    "revision": "72c4aefb6c1581750c10",
+    "url": "/clinikAssign/static/js/main.991c24b4.chunk.js"
   },
   {
     "revision": "be456f3952b2e883e83e",
