@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/clinikAssign/precache-manifest.9ee015bb1c06ce0b7c18a28b91d2c7b3.js"
+  "/clinikAssign/precache-manifest.73b72ef6491519d28b34174efe8bb32f.js"
 );
 
 self.addEventListener('message', (event) => {

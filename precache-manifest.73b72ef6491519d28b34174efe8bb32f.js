@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "0aaacba9fbfc9bbac5f5147ef7a47e4b",
+    "revision": "45dd51f5ff6ff098f901a036e6d5cb46",
     "url": "/clinikAssign/index.html"
   },
   {
-    "revision": "f1336fba02e37ec9735f",
+    "revision": "8fcf249754dcee04d4fd",
     "url": "/clinikAssign/static/css/main.5fcbfdd8.chunk.css"
   },
   {
-    "revision": "a36f654199807a9f54a9",
-    "url": "/clinikAssign/static/js/2.c7c2545e.chunk.js"
+    "revision": "7df95fdd6a785daf1f3c",
+    "url": "/clinikAssign/static/js/2.07733047.chunk.js"
   },
   {
     "revision": "c64c486544348f10a6d6c716950bc223",
-    "url": "/clinikAssign/static/js/2.c7c2545e.chunk.js.LICENSE.txt"
+    "url": "/clinikAssign/static/js/2.07733047.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "f1336fba02e37ec9735f",
-    "url": "/clinikAssign/static/js/main.34fdcb80.chunk.js"
+    "revision": "8fcf249754dcee04d4fd",
+    "url": "/clinikAssign/static/js/main.bae30db2.chunk.js"
   },
   {
     "revision": "be456f3952b2e883e83e",

@@ -1,23 +1,23 @@
 {
   "files": {
     "main.css": "/clinikAssign/static/css/main.5fcbfdd8.chunk.css",
-    "main.js": "/clinikAssign/static/js/main.34fdcb80.chunk.js",
-    "main.js.map": "/clinikAssign/static/js/main.34fdcb80.chunk.js.map",
+    "main.js": "/clinikAssign/static/js/main.bae30db2.chunk.js",
+    "main.js.map": "/clinikAssign/static/js/main.bae30db2.chunk.js.map",
     "runtime-main.js": "/clinikAssign/static/js/runtime-main.5d7ce42f.js",
     "runtime-main.js.map": "/clinikAssign/static/js/runtime-main.5d7ce42f.js.map",
-    "static/js/2.c7c2545e.chunk.js": "/clinikAssign/static/js/2.c7c2545e.chunk.js",
-    "static/js/2.c7c2545e.chunk.js.map": "/clinikAssign/static/js/2.c7c2545e.chunk.js.map",
+    "static/js/2.07733047.chunk.js": "/clinikAssign/static/js/2.07733047.chunk.js",
+    "static/js/2.07733047.chunk.js.map": "/clinikAssign/static/js/2.07733047.chunk.js.map",
     "index.html": "/clinikAssign/index.html",
-    "precache-manifest.9ee015bb1c06ce0b7c18a28b91d2c7b3.js": "/clinikAssign/precache-manifest.9ee015bb1c06ce0b7c18a28b91d2c7b3.js",
+    "precache-manifest.73b72ef6491519d28b34174efe8bb32f.js": "/clinikAssign/precache-manifest.73b72ef6491519d28b34174efe8bb32f.js",
     "service-worker.js": "/clinikAssign/service-worker.js",
     "static/css/main.5fcbfdd8.chunk.css.map": "/clinikAssign/static/css/main.5fcbfdd8.chunk.css.map",
-    "static/js/2.c7c2545e.chunk.js.LICENSE.txt": "/clinikAssign/static/js/2.c7c2545e.chunk.js.LICENSE.txt",
+    "static/js/2.07733047.chunk.js.LICENSE.txt": "/clinikAssign/static/js/2.07733047.chunk.js.LICENSE.txt",
     "static/media/graph.png": "/clinikAssign/static/media/graph.511a849a.png"
   },
   "entrypoints": [
     "static/js/runtime-main.5d7ce42f.js",
-    "static/js/2.c7c2545e.chunk.js",
+    "static/js/2.07733047.chunk.js",
     "static/css/main.5fcbfdd8.chunk.css",
-    "static/js/main.34fdcb80.chunk.js"
+    "static/js/main.bae30db2.chunk.js"
   ]
 }
