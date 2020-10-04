@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/clinikAssign/static/css/main.5fcbfdd8.chunk.css",
+    "main.js": "/clinikAssign/static/js/main.8334ccd8.chunk.js",
+    "main.js.map": "/clinikAssign/static/js/main.8334ccd8.chunk.js.map",
+    "runtime-main.js": "/clinikAssign/static/js/runtime-main.5d7ce42f.js",
+    "runtime-main.js.map": "/clinikAssign/static/js/runtime-main.5d7ce42f.js.map",
+    "static/js/2.07733047.chunk.js": "/clinikAssign/static/js/2.07733047.chunk.js",
+    "static/js/2.07733047.chunk.js.map": "/clinikAssign/static/js/2.07733047.chunk.js.map",
+    "index.html": "/clinikAssign/index.html",
+    "precache-manifest.cf322ebb729d4c121b1bedccd81d29b7.js": "/clinikAssign/precache-manifest.cf322ebb729d4c121b1bedccd81d29b7.js",
+    "service-worker.js": "/clinikAssign/service-worker.js",
+    "static/css/main.5fcbfdd8.chunk.css.map": "/clinikAssign/static/css/main.5fcbfdd8.chunk.css.map",
+    "static/js/2.07733047.chunk.js.LICENSE.txt": "/clinikAssign/static/js/2.07733047.chunk.js.LICENSE.txt",
+    "static/media/graph.png": "/clinikAssign/static/media/graph.511a849a.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5d7ce42f.js",
+    "static/js/2.07733047.chunk.js",
+    "static/css/main.5fcbfdd8.chunk.css",
+    "static/js/main.8334ccd8.chunk.js"
+  ]
+}
