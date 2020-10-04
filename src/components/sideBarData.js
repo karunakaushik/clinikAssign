@@ -9,43 +9,43 @@ import Cap from './src/img/cap.png'
 export const SidebarData = [
   {
     id:0,
-    path: '/',
+    path: '/clinikAssign/',
     icon: FText,
     cName: 'nav-text'
   },
   {
     id:1,
-    path: '/home',
+    path: '/clinikAssign/home',
     icon: Home,
     cName: 'nav-text'
   },
   {
     id:2,
-    path: '/graduate',
+    path: '/clinikAssign/graduate',
     icon: Cap,
     cName: 'nav-text'
   },
   {
     id:3,
-    path: '/profile',
+    path: '/clinikAssign/profile',
     icon: Profile,
     cName: 'nav-text'
   },
   {
     id:4,
-    path: '/messages',
+    path: '/clinikAssign/messages',
     icon: Msg,
     cName: 'nav-text'
   },
   {
     id:5,
-    path: '/setting',
+    path: '/clinikAssign/setting',
     icon: Setting,
     cName: 'nav-text'
   },
   {
     id:6,
-    path: '/send',
+    path: '/clinikAssign/send',
     icon: Send,
     cName: 'nav-text'
   },
